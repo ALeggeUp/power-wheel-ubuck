@@ -1,0 +1,8 @@
+Part	Manufacturer	Part Number	Quantity	Price	Attribute 1 Name	Attribute 1 Value	Attribute 2 Name	Attribute 2 Value	Attribute 3 Name	Attribute 3 Value	Footprint
+"Cbst"	"AVX"	"08053C104KAT2A"	"1"	"0.01"	"Cap"	"100nF"	"ESR"	"0.28Ohm"	""	""	"0805"
+"Cin"	"MuRata"	"GRM32ER61E226KE15L"	"1"	"0.18"	"Cap"	"22uF"	"ESR"	"2mOhm"	""	""	"1210"
+"Cout"	"TDK"	"C3216JB1A476M"	"1"	"0.3412"	"Cap"	"47uF"	"ESR"	"1.717mOhm"	""	""	"1206"
+"L1"	"TDK"	"VLP8040T-3R3N"	"1"	"0.22"	"L"	"3.3uH"	"DCR"	"0.02Ohm"	"IDC"	"5.2A"	"VLP8040"
+"Rfbb"	"Vishay-Dale"	"CRCW040210K2FKED"	"1"	"0.01"	"Resistance"	"10.2kOhm"	"Tolerance"	"1%"	"Power"	"0.063W"	"0402"
+"Rfbt"	"Vishay-Dale"	"CRCW040256K2FKED"	"1"	"0.01"	"Resistance"	"56.2kOhm"	"Tolerance"	"1%"	"Power"	"0.063W"	"0402"
+"U1"	"Texas Instruments"	"TPS563200DDCR"	"1"	"0.5"	""	""	""	""	""	""	"DDC0006A"
