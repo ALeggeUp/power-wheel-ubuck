@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name power-wheel-ubuck-passives)(type KiCad)(uri "$(KIPRJMOD)/resources/modules/passives.pretty")(options "")(descr "Passives for the Power Wheel uBuck Project"))
+)
