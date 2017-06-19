@@ -475,20 +475,4 @@ Wire Wire Line
 	8900 3700 8800 3700
 Wire Wire Line
 	8800 3700 8800 4100
-$Comp
-L TEST_1P J10
-U 1 1 594643F3
-P 9200 4100
-F 0 "J10" H 9200 4370 50  0000 C CNN
-F 1 "TEST_1P" H 9200 4300 50  0000 C CNN
-F 2 "Measurement_Points:Measurement_Point_Square-SMD-Pad_Big" H 9400 4100 50  0001 C CNN
-F 3 "" H 9400 4100 50  0001 C CNN
-	1    9200 4100
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	9200 4100 9200 3950
-Wire Wire Line
-	9200 3950 8800 3950
-Connection ~ 8800 3950
 $EndSCHEMATC
